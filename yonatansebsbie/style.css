@@ -1,0 +1,13 @@
+body
+    {
+        color: rgb(3, 0, 0);
+    font-style: italic;background-color: rgb(241, 216, 216);
+}
+p{color: rgb(0, 0, 0);
+font-size: x-large;}
+p{font-style: inherit;}
+ul{text-decoration: rgb(0, 0, 0);}
+header{background-color: rgb(244, 243, 250);
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: larger;
+font-size: large;}
